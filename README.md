@@ -1,5 +1,7 @@
 Go Docker Test Server
 =====================
+[![Godocs](https://img.shields.io/badge/go-docs-green.svg?style=flat)](https://godoc.org/github.com/BlueDragonX/go-docker-test/dockertest)
+
 This library automates the creation of an empty Docker test environment. It
 leverages the [Docker-in-Docker][1] containers published by Docker.
 
